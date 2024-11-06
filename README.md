@@ -5,7 +5,7 @@ It has Automatic History Saving Section When we Calculate the Total Expense from
 First Input Your Income and Click on `set income` Button so that it can calulate the remaining Amount left with you after expense.
 # Note 
 This Application Runs on installation of tkinter
-To install tkinter, you can run:
+To install tkinter, you can run this commandin the terminal:
 ```bash
 pip install tkinter
 ```
